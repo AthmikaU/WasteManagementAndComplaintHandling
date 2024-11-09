@@ -1,0 +1,5 @@
+- POST /complaints to register complaints.
+- GET /complaints to retrieve sorted complaints.
+- POST /resolve to resolve a complaint.
+- GET /undo to undo the last resolved complaint.
+- GET /logs to retrieve the .csv file log.
